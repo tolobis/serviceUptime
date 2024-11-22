@@ -22,17 +22,19 @@
     "url": "https://backend.geistes-gaben.de",
     "icon": "https://icons.duckduckgo.com/ip3/backend.geistes-gaben.de.ico",
     "slug": "geistesgaben-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 723,
-    "timeWeek": 472,
-    "timeMonth": 445,
-    "timeYear": 445,
-    "dailyMinutesDown": {}
+    "time": 443,
+    "timeDay": 571,
+    "timeWeek": 466,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   }
 ]
