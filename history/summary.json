@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 157,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 182,
+    "timeDay": 132,
+    "timeWeek": 151,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.geistes-gaben.de.ico",
     "slug": "geistesgaben-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 571,
-    "timeWeek": 466,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "uptime": "95.99%",
+    "uptimeDay": "33.13%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "95.99%",
+    "time": 437,
+    "timeDay": 361,
+    "timeWeek": 451,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-11-22": 0
+      "2024-11-23": 53,
+      "2024-11-22": 910
     }
   }
 ]
