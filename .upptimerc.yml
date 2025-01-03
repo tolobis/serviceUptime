@@ -4,13 +4,19 @@ repo: serviceUptime # The name of this repository
 
 sites:
   - name: Geistesgaben
-    url: https://geistes-gaben.de  
+    url: https://geistes-gaben.de 
+    assignees:
+      - tolobis
   - name: GeistesgabenBackend
     url: https://backend.geistes-gaben.de
+    assignees:
+      - tolobis
   - name: Geistesgaben Database
     url: https://pniujixkkkqyqwowjmwi.supabase.co/rest/v1
     expectedStatusCodes:
       - 401
+    assignees:
+      - tolobis
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
