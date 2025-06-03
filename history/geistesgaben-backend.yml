@@ -1,7 +1,7 @@
 url: https://backend.geistes-gaben.de
-status: down
-code: 502
-responseTime: 503
-lastUpdated: 2025-06-02T23:20:32.615Z
+status: up
+code: 200
+responseTime: 462
+lastUpdated: 2025-06-03T20:26:27.227Z
 startTime: 2024-11-06T08:21:45.843Z
 generator: Upptime <https://github.com/upptime/upptime>
