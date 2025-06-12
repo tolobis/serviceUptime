@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.geistes-gaben.de.ico",
     "slug": "geistesgaben-backend",
     "status": "up",
-    "uptime": "90.57%",
+    "uptime": "90.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.72%",
-    "uptimeYear": "90.57%",
+    "uptimeYear": "90.60%",
     "time": 501,
     "timeDay": 647,
     "timeWeek": 549,
@@ -67,17 +67,19 @@
     "url": "https://pniujixkkkqyqwowjmwi.supabase.co/rest/v1",
     "icon": "https://icons.duckduckgo.com/ip3/pniujixkkkqyqwowjmwi.supabase.co.ico",
     "slug": "geistesgaben-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 146,
-    "timeWeek": 147,
-    "timeMonth": 143,
-    "timeYear": 154,
-    "dailyMinutesDown": {}
+    "time": 171,
+    "timeDay": 1763,
+    "timeWeek": 551,
+    "timeMonth": 244,
+    "timeYear": 171,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   }
 ]
