@@ -1,7 +1,9 @@
 # Change these first
 owner: tolobis # Your GitHub organization or username, where this repository lives
 repo: serviceUptime # The name of this repository
-
+workflowSchedule:
+  uptime: "0 */2 * * *"
+  
 sites:
   - name: Geistesgaben
     url: https://geistes-gaben.de 
