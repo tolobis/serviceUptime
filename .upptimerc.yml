@@ -9,10 +9,6 @@ sites:
     url: https://geistes-gaben.de 
     assignees:
       - tolobis
-  - name: GeistesgabenBackend
-    url: https://backend.geistes-gaben.de
-    assignees:
-      - tolobis
   - name: Geistesgaben Database
     url: https://pniujixkkkqyqwowjmwi.supabase.co/rest/v1
     expectedStatusCodes:
