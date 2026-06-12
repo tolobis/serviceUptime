@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 313,
-    "timeWeek": 298,
-    "timeMonth": 279,
+    "timeDay": 245,
+    "timeWeek": 315,
+    "timeMonth": 282,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 173,
-    "timeWeek": 175,
+    "timeDay": 178,
+    "timeWeek": 171,
     "timeMonth": 165,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2025-06-12": 53
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Geistesgaben Backend Google",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 150,
-    "timeWeek": 159,
-    "timeMonth": 164,
+    "timeDay": 123,
+    "timeWeek": 160,
+    "timeMonth": 163,
     "timeYear": 191,
     "dailyMinutesDown": {}
   }
